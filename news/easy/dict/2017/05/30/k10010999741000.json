@@ -1,0 +1,118 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "選手"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "あやしいと<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。<ruby><rb>変</rb><rt>へん</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。",
+          "hyouki": [
+            "疑い"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>にすること。<ruby><rb>本職</rb><rt>ほんしょく</rt></ruby>。<ruby><rb>専門</rb><rt>せんもん</rt></ruby>。",
+          "hyouki": [
+            "プロ"
+          ]
+        },
+        {
+          "def": "「プロダクション」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "プロ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "シバを<ruby><rb>植</rb><rt>う</rt></ruby>えた<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>に、１８か<ruby><rb>所</rb><rt>しょ</rt></ruby>の<ruby><rb>穴</rb><rt>あな</rt></ruby>（ホール）のあるコースを<ruby><rb>作</rb><rt>つく</rt></ruby>り、<ruby><rb>小</rb><rt>ちい</rt></ruby>さいボールをクラブで<ruby><rb>打</rb><rt>う</rt></ruby>って、<ruby><rb>穴</rb><rt>あな</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れていく<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。",
+          "hyouki": [
+            "ゴルフ"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>罪</rb><rt>つみ</rt></ruby>を<ruby><rb>犯</rb><rt>おか</rt></ruby>した<ruby><rb>疑</rb><rt>うたが</rt></ruby>いのある<ruby><rb>人</rb><rt>ひと</rt></ruby>を、<ruby><rb>警察</rb><rt>けいさつ</rt></ruby>がつかまえること。",
+          "hyouki": [
+            "逮捕"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "つかまえた<ruby><rb>人</rb><rt>ひと</rt></ruby>などを、<ruby><rb>許</rb><rt>ゆる</rt></ruby>して<ruby><rb>自由</rb><rt>じゆう</rt></ruby>にしてやること。",
+          "hyouki": [
+            "釈放"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>成績</rb><rt>せいせき</rt></ruby>などの<ruby><rb>順位</rb><rt>じゅんい</rt></ruby>。<ruby><rb>等級</rb><rt>とうきゅう</rt></ruby>。",
+          "hyouki": [
+            "ランキング"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>の、<ruby><rb>胴</rb><rt>どう</rt></ruby>と<ruby><rb>足</rb><rt>あし</rt></ruby>との<ruby><rb>間</rb><rt>あいだ</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "腰"
+          ]
+        },
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>真</rb><rt>ま</rt></ruby>ん<ruby><rb>中</rb><rt>なか</rt></ruby><ruby><rb>辺</rb><rt>あた</rt></ruby>りより<ruby><rb>少</rb><rt>すこ</rt></ruby>し<ruby><rb>下</rb><rt>した</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "腰"
+          ]
+        },
+        {
+          "def": "<ruby><rb>粉</rb><rt>こな</rt></ruby>や、もちなどの、ねばり。",
+          "hyouki": [
+            "腰"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>思</rb><rt>おも</rt></ruby>って<ruby><rb>苦</rb><rt>くる</rt></ruby>しむ。<ruby><rb>心配</rb><rt>しんぱい</rt></ruby>する。",
+          "hyouki": [
+            "悩む"
+          ]
+        },
+        {
+          "def": "<ruby><rb>痛</rb><rt>いた</rt></ruby>みなどで<ruby><rb>苦</rb><rt>くる</rt></ruby>しむ。",
+          "hyouki": [
+            "悩む"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>医者</rb><rt>いしゃ</rt></ruby>が、<ruby><rb>病気</rb><rt>びょうき</rt></ruby>や<ruby><rb>傷</rb><rt>きず</rt></ruby>のところを、<ruby><rb>切</rb><rt>き</rt></ruby>り<ruby><rb>開</rb><rt>ひら</rt></ruby>いたり<ruby><rb>切</rb><rt>き</rt></ruby>り<ruby><rb>取</rb><rt>と</rt></ruby>ったりして、<ruby><rb>治療</rb><rt>ちりょう</rt></ruby>すること。",
+          "hyouki": [
+            "手術"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "けがや<ruby><rb>病気</rb><rt>びょうき</rt></ruby>で<ruby><rb>歩</rb><rt>ある</rt></ruby>けなくなったり、<ruby><rb>動</rb><rt>うご</rt></ruby>かなくなったりした<ruby><rb>体</rb><rt>からだ</rt></ruby>を、もとにもどすための<ruby><rb>訓練</rb><rt>くんれん</rt></ruby>。",
+          "hyouki": [
+            "リハビリ"
+          ]
+        }
+      ]
+    }
+  }
+}

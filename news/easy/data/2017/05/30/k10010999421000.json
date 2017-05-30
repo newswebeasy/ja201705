@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10010999421000.mp3", 
+  "title": "「車の運転中に決してスマートフォンを使わないで」", 
+  "news_prearranged_time": "2017-05-30 16:15:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>去年<rt>きょねん</rt></ruby>１０<ruby>月<rt>がつ</rt></ruby>、<ruby>愛知県<rt>あいちけん</rt></ruby><ruby>一宮市<rt>いちのみやし</rt></ruby>で９<ruby>歳<rt>さい</rt></ruby>の<ruby>則竹<rt>のりたけ</rt></ruby><ruby>敬太<rt>けいた</rt></ruby>くんが<ruby>車<rt>くるま</rt></ruby>に<a href='javascript:void(0)' class='dicWin' id='id-0000'>はね</a>られて<ruby>亡<rt>な</rt></ruby>くなりました。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "「<ruby>車<rt>くるま</rt></ruby>の<ruby>運転<rt>うんてん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>に<ruby>決<rt>けっ</rt></ruby>してスマートフォンを<ruby>使<rt>つか</rt></ruby>わないで」", 
+  "news_id": "k10010999421000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170529/../20170529/K10010999421_1705291941_1705292036_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

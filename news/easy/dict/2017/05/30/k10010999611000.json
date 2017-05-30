@@ -1,0 +1,80 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "いちばん<ruby><rb>軽</rb><rt>かる</rt></ruby>くて、<ruby><rb>色</rb><rt>いろ</rt></ruby>も、においもない<ruby><rb>気体</rb><rt>きたい</rt></ruby>。<ruby><rb>燃</rb><rt>も</rt></ruby>えやすい。",
+          "hyouki": [
+            "水素"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>色</rb><rt>いろ</rt></ruby>も、においもない<ruby><rb>気体</rb><rt>きたい</rt></ruby>。<ruby><rb>空気</rb><rt>くうき</rt></ruby>や<ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にふくまれていて、<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>はこれを<ruby><rb>吸</rb><rt>す</rt></ruby>って<ruby><rb>生</rb><rt>い</rt></ruby>きている。また、<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>燃</rb><rt>も</rt></ruby>えるには、<ruby><rb>酸素</rb><rt>さんそ</rt></ruby>が<ruby><rb>必要</rb><rt>ひつよう</rt></ruby>である。",
+          "hyouki": [
+            "酸素"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>炭素</rb><rt>たんそ</rt></ruby>と<ruby><rb>酸素</rb><rt>さんそ</rt></ruby>の<ruby><rb>化合物</rb><rt>かごうぶつ</rt></ruby>で、<ruby><rb>色</rb><rt>いろ</rt></ruby>もにおいもない<ruby><rb>気体</rb><rt>きたい</rt></ruby>。<ruby><rb>炭火</rb><rt>すみび</rt></ruby>の<ruby><rb>燃</rb><rt>も</rt></ruby>えるときなどに<ruby><rb>発生</rb><rt>はっせい</rt></ruby>し、<ruby><rb>人</rb><rt>ひと</rt></ruby>のはく<ruby><rb>息</rb><rt>いき</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にもふくまれている。ドライアイス・ソーダ<ruby><rb>水</rb><rt>すい</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>われる。<ruby><rb>炭酸</rb><rt>たんさん</rt></ruby>ガス。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「<ruby><rb>CO<span class=\"dic_sub\">2</span></rb><rt>シーオーツー</rt></ruby>」。",
+          "hyouki": [
+            "二酸化炭素"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>巻</rb><rt>ま</rt></ruby>き、<ruby><rb>影響</rb><rt>えいきょう</rt></ruby>をあたえる<ruby><rb>周</rb><rt>まわ</rt></ruby>りの<ruby><rb>世界</rb><rt>せかい</rt></ruby>。",
+          "hyouki": [
+            "環境"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "あるはたらきをすることができる<ruby><rb>力</rb><rt>ちから</rt></ruby>。",
+          "hyouki": [
+            "エネルギー"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>活動</rb><rt>かつどう</rt></ruby>するもとになる<ruby><rb>力</rb><rt>ちから</rt></ruby>。<ruby><rb>元気</rb><rt>げんき</rt></ruby>。",
+          "hyouki": [
+            "エネルギー"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ズボンなどの、<ruby><rb>腰</rb><rt>こし</rt></ruby>をしめる<ruby><rb>帯</rb><rt>おび</rt></ruby>。ベルト。",
+          "hyouki": [
+            "バンド"
+          ]
+        },
+        {
+          "def": "はばの<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>平</rb><rt>ひら</rt></ruby>たいひも。",
+          "hyouki": [
+            "バンド"
+          ]
+        },
+        {
+          "def": "<ruby><rb>楽団</rb><rt>がくだん</rt></ruby>や<ruby><rb>楽隊</rb><rt>がくたい</rt></ruby>。",
+          "hyouki": [
+            "バンド"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>を<ruby><rb>演奏</rb><rt>えんそう</rt></ruby>するために<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>器具</rb><rt>きぐ</rt></ruby>。<ruby><rb>弦楽器</rb><rt>げんがっき</rt></ruby>・<ruby><rb>管楽器</rb><rt>かんがっき</rt></ruby>・<ruby><rb>打楽器</rb><rt>だがっき</rt></ruby>など。",
+          "hyouki": [
+            "楽器"
+          ]
+        }
+      ]
+    }
+  }
+}
