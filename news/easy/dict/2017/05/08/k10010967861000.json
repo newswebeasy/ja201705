@@ -1,0 +1,80 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>煮</rb><rt>に</rt></ruby>たり<ruby><rb>焼</rb><rt>や</rt></ruby>いたりするための、<ruby><rb>持</rb><rt>も</rt></ruby>ち<ruby><rb>運</rb><rt>はこ</rt></ruby>びができる<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。",
+          "hyouki": [
+            "こんろ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>な<ruby><rb>電波</rb><rt>でんぱ</rt></ruby>によって<ruby><rb>食品</rb><rt>しょくひん</rt></ruby>に<ruby><rb>熱</rb><rt>ねつ</rt></ruby>を<ruby><rb>加</rb><rt>くわ</rt></ruby>え、<ruby><rb>短</rb><rt>みじか</rt></ruby>い<ruby><rb>時間</rb><rt>じかん</rt></ruby>で<ruby><rb>調理</rb><rt>ちょうり</rt></ruby>する<ruby><rb>器具</rb><rt>きぐ</rt></ruby>。",
+          "hyouki": [
+            "電子レンジ"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。",
+          "hyouki": [
+            "製品"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ことがら。できごと。",
+          "hyouki": [
+            "件"
+          ]
+        },
+        {
+          "def": "ことがらの<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "件"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>・<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>・<ruby><rb>鉱物</rb><rt>こうぶつ</rt></ruby>からとった、<ruby><rb>水</rb><rt>みず</rt></ruby>と<ruby><rb>混</rb><rt>ま</rt></ruby>ざらない、<ruby><rb>燃</rb><rt>も</rt></ruby>えやすい<ruby><rb>液体</rb><rt>えきたい</rt></ruby>。",
+          "hyouki": [
+            "油"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>火</rb><rt>ひ</rt></ruby>がついて、ほのおが<ruby><rb>上</rb><rt>あ</rt></ruby>がる。",
+          "hyouki": [
+            "燃える"
+          ]
+        },
+        {
+          "def": "<ruby><rb>燃</rb><rt>も</rt></ruby>えているようなようすになる。",
+          "hyouki": [
+            "燃える"
+          ]
+        },
+        {
+          "def": "その<ruby><rb>気持</rb><rt>きも</rt></ruby>ちが、さかんに<ruby><rb>起</rb><rt>お</rt></ruby>こる。",
+          "hyouki": [
+            "燃える"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>火</rb><rt>ひ</rt></ruby>や、<ruby><rb>熱</rb><rt>あつ</rt></ruby>いお<ruby><rb>湯</rb><rt>ゆ</rt></ruby>などにふれて、<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>がただれること。",
+          "hyouki": [
+            "火傷"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10010973131000.mp3", 
+  "title": "フランスの次の大統領は３９歳のマクロンさんに決まる", 
+  "news_prearranged_time": "2017-05-08 16:15:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p><ruby>７日<rt>なのか</rt></ruby>、フランスの<ruby>次<rt>つぎ</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>大統領<rt>だいとうりょう</rt></ruby></a>を<ruby>選<rt>えら</rt></ruby>ぶ<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>選挙<rt>せんきょ</rt></ruby></a>がありました。", 
+  "news_web_movie_uri": "k10010973131_201705080722_201705080732.mp4", 
+  "title_with_ruby": "フランスの<ruby>次<rt>つぎ</rt></ruby>の<ruby>大統領<rt>だいとうりょう</rt></ruby>は３９<ruby>歳<rt>さい</rt></ruby>のマクロンさんに<ruby>決<rt>き</rt></ruby>まる", 
+  "news_id": "k10010973131000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170508/../20170508/K10010973131_1705080722_1705080732_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

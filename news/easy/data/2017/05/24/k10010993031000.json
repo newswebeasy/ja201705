@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10010993031000.mp3", 
+  "title": "５月の大相撲　横綱の稀勢の里が２４日から休む", 
+  "news_prearranged_time": "2017-05-24 16:00:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>東京<rt>とうきょう</rt></ruby>で<ruby>１４日<rt>じゅうよっか</rt></ruby>から２８<ruby>日<rt>にち</rt></ruby>まで<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>大相撲<rt>おおずもう</rt></ruby></a>を<ruby>行<rt>おこな</rt></ruby>っています。", 
+  "news_web_movie_uri": "k10010993031_201705241214_201705241220.mp4", 
+  "title_with_ruby": "５<ruby>月<rt>がつ</rt></ruby>の<ruby>大相撲<rt>おおずもう</rt></ruby>　<ruby>横綱<rt>よこづな</rt></ruby>の<ruby>稀勢<rt>きせ</rt></ruby>の<ruby>里<rt>さと</rt></ruby>が<ruby>２４日<rt>にじゅうよっか</rt></ruby>から<ruby>休<rt>やす</rt></ruby>む", 
+  "news_id": "k10010993031000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170524/../20170524/K10010993031_1705241214_1705241220_01_03.jpg?utm_int=all_side_ranking-access_005", 
+  "news_easy_movie_uri": "''"
+}

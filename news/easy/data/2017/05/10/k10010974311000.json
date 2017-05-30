@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10010974311000.mp3", 
+  "title": "大和証券　年を取っても仕事を続けることができる", 
+  "news_prearranged_time": "2017-05-10 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>証券<rt>しょうけん</rt></ruby></a><ruby>会社<rt>がいしゃ</rt></ruby>の<ruby>大和証券<rt>だいわしょうけん</rt></ruby>グループ<ruby>本社<rt>ほんしゃ</rt></ruby>は、６０<ruby>歳<rt>さい</rt></ruby>が<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>定年<rt>ていねん</rt></ruby></a>になっています。", 
+  "news_web_movie_uri": "k10010974311_201705090438_201705090445.mp4", 
+  "title_with_ruby": "<ruby>大和証券<rt>だいわしょうけん</rt></ruby>　<ruby>年<rt>とし</rt></ruby>を<ruby>取<rt>と</rt></ruby>っても<ruby>仕事<rt>しごと</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けることができる", 
+  "news_id": "k10010974311000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170509/../20170509/K10010974311_1705090438_1705090445_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

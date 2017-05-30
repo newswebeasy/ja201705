@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10010964381000.mp3", 
+  "title": "宇宙ごみを片づける人工衛星を打ち上げる計画", 
+  "news_prearranged_time": "2017-05-05 10:35:00", 
+  "news_easy_image_uri": "k10010964381000.jpg", 
+  "has_news_easy_image": true, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>宇宙<rt>うちゅう</rt></ruby></a>には、<ruby>使<rt>つか</rt></ruby>い<ruby>終<rt>お</rt></ruby>わった<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>人工衛星<rt>じんこうえいせい</rt></ruby></a>の<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>一部<rt>いちぶ</rt></ruby></a>などの「<ruby>宇宙<rt>うちゅう</rt></ruby>ごみ」がたくさん<ruby>残<rt>のこ</rt></ruby>っていて<ruby>問題<rt>もんだい</rt></ruby>になっています。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "<ruby>宇宙<rt>うちゅう</rt></ruby>ごみを<ruby>片<rt>かた</rt></ruby>づける<ruby>人工衛星<rt>じんこうえいせい</rt></ruby>を<ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げる<ruby>計画<rt>けいかく</rt></ruby>", 
+  "news_id": "k10010964381000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": false, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "", 
+  "news_easy_movie_uri": "''"
+}

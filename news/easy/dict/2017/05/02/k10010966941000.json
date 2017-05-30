@@ -1,0 +1,51 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>売</rb><rt>う</rt></ruby>ったり<ruby><rb>買</rb><rt>か</rt></ruby>ったりするための<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。",
+          "hyouki": [
+            "商品"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>姿</rb><rt>すがた</rt></ruby>。<ruby><rb>形</rb><rt>かたち</rt></ruby>。",
+          "hyouki": [
+            "格好",
+            "恰好"
+          ]
+        },
+        {
+          "def": "ていさい。",
+          "hyouki": [
+            "格好",
+            "恰好"
+          ]
+        },
+        {
+          "def": "ちょうど<ruby><rb>合</rb><rt>あ</rt></ruby>っているようす。",
+          "hyouki": [
+            "格好",
+            "恰好"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>が<ruby><rb>買</rb><rt>か</rt></ruby>われる。",
+          "hyouki": [
+            "売れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られる。",
+          "hyouki": [
+            "売れる"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10010967481000.mp3", 
+  "title": "噴火の可能性がある山に登るときの注意をビデオにする", 
+  "news_prearranged_time": "2017-05-02 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>日本<rt>にっぽん</rt></ruby>には<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>噴火<rt>ふんか</rt></ruby></a>する<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>可能性<rt>かのうせい</rt></ruby></a>がある<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>火山<rt>かざん</rt></ruby></a>が１００<ruby>以上<rt>いじょう</rt></ruby>あります。", 
+  "news_web_movie_uri": "k10010967481_201705010520_201705010520.mp4", 
+  "title_with_ruby": "<ruby>噴火<rt>ふんか</rt></ruby>の<ruby>可能性<rt>かのうせい</rt></ruby>がある<ruby>山<rt>やま</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>るときの<ruby>注意<rt>ちゅうい</rt></ruby>をビデオにする", 
+  "news_id": "k10010967481000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170501/../20170501/K10010967481_1705010049_1705010505_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

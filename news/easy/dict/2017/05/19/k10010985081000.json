@@ -1,0 +1,62 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "（<ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で）<ruby><rb>泳</rb><rt>およ</rt></ruby>げなくて<ruby><rb>死</rb><rt>し</rt></ruby>にそうになる。また、<ruby><rb>死</rb><rt>し</rt></ruby>ぬ。",
+          "hyouki": [
+            "溺れる"
+          ]
+        },
+        {
+          "def": "（よくないことに）<ruby><rb>夢中</rb><rt>むちゅう</rt></ruby>になる。",
+          "hyouki": [
+            "溺れる"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ことがら。できごと。",
+          "hyouki": [
+            "件"
+          ]
+        },
+        {
+          "def": "ことがらの<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "件"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "とつぜん。にわかに。",
+          "hyouki": [
+            "急に"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "しずまないで、<ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>にある。<ruby><rb>浮</rb><rt>う</rt></ruby>く。",
+          "hyouki": [
+            "浮かぶ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>空中</rb><rt>くうちゅう</rt></ruby>にある。",
+          "hyouki": [
+            "浮かぶ"
+          ]
+        },
+        {
+          "def": "かくれていたものが<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>に<ruby><rb>現</rb><rt>あらわ</rt></ruby>れる。",
+          "hyouki": [
+            "浮かぶ"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10010995021000.mp3", 
+  "title": "小学校のプールでサンショウウオがたくさん見つかる", 
+  "news_prearranged_time": "2017-05-26 16:05:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'>サンショウウオ</a>の<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>仲間<rt>なかま</rt></ruby></a>で<ruby>体<rt>からだ</rt></ruby>が<ruby>小<rt>ちい</rt></ruby>さいカスミサンショウウオは、<ruby>西日本<rt>にしにほん</rt></ruby>の<ruby>川<rt>かわ</rt></ruby>などに<ruby>住<rt>す</rt></ruby>んでいます。", 
+  "news_web_movie_uri": "k10010995021_201705251937_201705251938.mp4", 
+  "title_with_ruby": "<ruby>小学校<rt>しょうがっこう</rt></ruby>のプールでサンショウウオがたくさん<ruby>見<rt>み</rt></ruby>つかる", 
+  "news_id": "k10010995021000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170525/../20170525/K10010995021_1705251937_1705251939_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

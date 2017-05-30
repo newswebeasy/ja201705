@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10010994701000.mp3", 
+  "title": "海に沈んだ昔の日本軍の２４隻の潜水艦が見つかる", 
+  "news_prearranged_time": "2017-05-26 16:05:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p><ruby>東京大学<rt>とうきょうだいがく</rt></ruby>の<ruby>浦<rt>うら</rt></ruby><ruby>環<rt>たまき</rt></ruby>さんなどの<a href='javascript:void(0)' class='dicWin' id='id-0004'>グループ</a>は、<ruby>海<rt>うみ</rt></ruby>に<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>沈<rt>しず</rt></ruby>ん</a>だ<ruby>昔<rt>むかし</rt></ruby>の<ruby>日本<rt>にほん</rt></ruby><a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>軍<rt>ぐん</rt></ruby></a>の<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>潜水艦<rt>せんすいかん</rt></ruby></a>を<ruby>見<rt>み</rt></ruby>つけました。", 
+  "news_web_movie_uri": "k10010994701_201705251924_201705251925.mp4", 
+  "title_with_ruby": "<ruby>海<rt>うみ</rt></ruby>に<ruby>沈<rt>しず</rt></ruby>んだ<ruby>昔<rt>むかし</rt></ruby>の<ruby>日本<rt>にほん</rt></ruby><ruby>軍<rt>ぐん</rt></ruby>の２４<ruby>隻<rt>せき</rt></ruby>の<ruby>潜水艦<rt>せんすいかん</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかる", 
+  "news_id": "k10010994701000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170525/../20170525/K10010994701_1705251924_1705251925_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

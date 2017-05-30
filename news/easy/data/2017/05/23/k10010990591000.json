@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10010990591000.mp3", 
+  "title": "東京スカイツリーができてから５年", 
+  "news_prearranged_time": "2017-05-23 15:45:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p><ruby>東京都<rt>とうきょうと</rt></ruby><ruby>墨田区<rt>すみだく</rt></ruby>に「<ruby>東京<rt>とうきょう</rt></ruby>スカイツリー」ができてから、５<ruby>月<rt>がつ</rt></ruby>２２<ruby>日<rt>にち</rt></ruby>で５<ruby>年<rt>ねん</rt></ruby>になりました。", 
+  "news_web_movie_uri": "k10010990591_201705221220_201705221221.mp4", 
+  "title_with_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>スカイツリーができてから５<ruby>年<rt>ねん</rt></ruby>", 
+  "news_id": "k10010990591000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170522/../20170522/K10010990591_1705221220_1705221221_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

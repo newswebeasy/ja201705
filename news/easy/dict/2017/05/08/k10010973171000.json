@@ -1,0 +1,90 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>第一次世界大戦後</rb><rt>だいいちじせかいたいせんご</rt></ruby>にドイツでできた<ruby><rb>政党</rb><rt>せいとう</rt></ruby>。<ruby><rb>党首</rb><rt>とうしゅ</rt></ruby>ヒトラーの<ruby><rb>独裁</rb><rt>どくさい</rt></ruby>のもと、<ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>起</rb><rt>お</rt></ruby>こしたが、<ruby><rb>連合国</rb><rt>れんごうこく</rt></ruby>に<ruby><rb>負</rb><rt>ま</rt></ruby>けた。ナチ。",
+          "hyouki": [
+            "ナチス"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "1939<ruby><rb>年</rb><rt>ねん</rt></ruby>から1945<ruby><rb>年</rb><rt>ねん</rt></ruby>まで、<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>・ドイツ・イタリアが、イギリス・フランス・アメリカ・ソ<ruby><rb>連</rb><rt>れん</rt></ruby>・<ruby><rb>中国</rb><rt>ちゅうごく</rt></ruby>などの<ruby><rb>連合国</rb><rt>れんごうこく</rt></ruby>と<ruby><rb>戦</rb><rt>たたか</rt></ruby>った<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。1945<ruby><rb>年</rb><rt>ねん</rt></ruby>（<ruby><rb>昭和</rb><rt>しょうわ</rt></ruby><ruby><rb>20年</rb><rt>にじゅうねん</rt></ruby>）<ruby><rb>8月</rb><rt>はちがつ</rt></ruby><ruby><rb>15</rb><rt>じゅうご</rt></ruby><ruby><rb>日</rb><rt>にち</rt></ruby>に<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>が<ruby><rb>降伏</rb><rt>こうふく</rt></ruby>して<ruby><rb>終</rb><rt>お</rt></ruby>わった。",
+          "hyouki": [
+            "第二次世界大戦"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>る。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>笑</rb><rt>わら</rt></ruby>い・あくび・<ruby><rb>息</rb><rt>いき</rt></ruby>などを）おさえて<ruby><rb>止</rb><rt>と</rt></ruby>める。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>たなくする。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、アウトにする。",
+          "hyouki": [
+            "殺す"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>代</rb><rt>か</rt></ruby>わって<ruby><rb>何</rb><rt>なに</rt></ruby>かをすること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "代表"
+          ]
+        },
+        {
+          "def": "<ruby><rb>一部分</rb><rt>いちぶぶん</rt></ruby>で<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>特色</rb><rt>とくしょく</rt></ruby>を<ruby><rb>表</rb><rt>あらわ</rt></ruby>すこと。また、そのもの。",
+          "hyouki": [
+            "代表"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>固</rb><rt>かた</rt></ruby>く<ruby><rb>約束</rb><rt>やくそく</rt></ruby>する。",
+          "hyouki": [
+            "誓う"
+          ]
+        },
+        {
+          "def": "<ruby><rb>固</rb><rt>かた</rt></ruby>く<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "誓う"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>記念</rb><rt>きねん</rt></ruby>のことばを<ruby><rb>刻</rb><rt>きざ</rt></ruby>んで<ruby><rb>建</rb><rt>た</rt></ruby>てた<ruby><rb>石</rb><rt>いし</rt></ruby>。",
+          "hyouki": [
+            "石碑"
+          ]
+        },
+        {
+          "def": "<ruby><rb>墓</rb><rt>はか</rt></ruby>に<ruby><rb>建</rb><rt>た</rt></ruby>てる<ruby><rb>石</rb><rt>いし</rt></ruby>。<ruby><rb>墓石</rb><rt>はかいし</rt></ruby>。",
+          "hyouki": [
+            "石碑"
+          ]
+        }
+      ]
+    }
+  }
+}

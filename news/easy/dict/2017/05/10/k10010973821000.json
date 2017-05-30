@@ -1,0 +1,104 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、<ruby><rb>腰</rb><rt>こし</rt></ruby>や<ruby><rb>手</rb><rt>て</rt></ruby>をくねらせる、ハワイのおどり。",
+          "hyouki": [
+            "フラダンス"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>西洋風</rb><rt>せいようふう</rt></ruby>のおどりをおどることを、<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "ダンサー"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>新製品</rb><rt>しんせいひん</rt></ruby>を<ruby><rb>見</rb><rt>み</rt></ruby>せる<ruby><rb>展示会</rb><rt>てんじかい</rt></ruby>。",
+          "hyouki": [
+            "ショー"
+          ]
+        },
+        {
+          "def": "<ruby><rb>舞台</rb><rt>ぶたい</rt></ruby>で<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>やおどりなどを<ruby><rb>見</rb><rt>み</rt></ruby>せること。",
+          "hyouki": [
+            "ショー"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>地下水</rb><rt>ちかすい</rt></ruby>が<ruby><rb>火山</rb><rt>かざん</rt></ruby>などの<ruby><rb>熱</rb><rt>ねつ</rt></ruby>で<ruby><rb>温</rb><rt>あたた</rt></ruby>められて、<ruby><rb>地下</rb><rt>ちか</rt></ruby>からわき<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>湯</rb><rt>ゆ</rt></ruby>。いろいろな<ruby><rb>成分</rb><rt>せいぶん</rt></ruby>がとけていて<ruby><rb>病気</rb><rt>びょうき</rt></ruby>に<ruby><rb>効</rb><rt>き</rt></ruby>く。また、その<ruby><rb>湯</rb><rt>ゆ</rt></ruby>の<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。",
+          "hyouki": [
+            "温泉"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つのテーマに<ruby><rb>沿</rb><rt>そ</rt></ruby>って<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>遊園地</rb><rt>ゆうえんち</rt></ruby>。ディズニーランドなど。",
+          "hyouki": [
+            "テーマパーク"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>動</rb><rt>うご</rt></ruby>くようにする。",
+          "hyouki": [
+            "動かす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>位置</rb><rt>いち</rt></ruby>を<ruby><rb>変</rb><rt>か</rt></ruby>える。",
+          "hyouki": [
+            "動かす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>感動</rb><rt>かんどう</rt></ruby>させる。",
+          "hyouki": [
+            "動かす"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ヒツジなどの<ruby><rb>毛</rb><rt>け</rt></ruby>をより<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、<ruby><rb>糸</rb><rt>いと</rt></ruby>にしたもの。<ruby><rb>編</rb><rt>あ</rt></ruby>み<ruby><rb>物</rb><rt>もの</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "毛糸"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>んだり、<ruby><rb>束</rb><rt>たば</rt></ruby>ねたりするのに<ruby><rb>使</rb><rt>つか</rt></ruby>う、<ruby><rb>太</rb><rt>ふと</rt></ruby>い<ruby><rb>糸</rb><rt>いと</rt></ruby>のようなもの。",
+          "hyouki": [
+            "ひも"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>西洋風</rb><rt>せいようふう</rt></ruby>のおどり。",
+          "hyouki": [
+            "ダンス"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>が<ruby><rb>生</rb><rt>う</rt></ruby>まれ<ruby><rb>育</rb><rt>そだ</rt></ruby>った<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>故郷</rb><rt>こきょう</rt></ruby>。",
+          "hyouki": [
+            "ふるさと"
+          ]
+        }
+      ]
+    }
+  }
+}

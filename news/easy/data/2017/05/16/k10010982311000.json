@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10010982311000.mp3", 
+  "title": "地球にぶつかる危険がある小惑星について話し合う", 
+  "news_prearranged_time": "2017-05-16 15:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>小惑星<rt>しょうわくせい</rt></ruby>は<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>太陽<rt>たいよう</rt></ruby></a>の<ruby>周<rt>まわ</rt></ruby>りを<ruby>回<rt>まわ</rt></ruby>っているとても<ruby>小<rt>ちい</rt></ruby>さな<ruby>星<rt>ほし</rt></ruby>です。", 
+  "news_web_movie_uri": "k10010982311_201705151813_201705151814.mp4", 
+  "title_with_ruby": "<ruby>地球<rt>ちきゅう</rt></ruby>にぶつかる<ruby>危険<rt>きけん</rt></ruby>がある<ruby>小惑星<rt>しょうわくせい</rt></ruby>について<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>う", 
+  "news_id": "k10010982311000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170515/../20170515/K10010982311_1705151701_1705151716_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

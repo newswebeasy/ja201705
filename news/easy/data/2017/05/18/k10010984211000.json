@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10010984211000.mp3", 
+  "title": "気象庁　大雨などに気をつける時間をわかりやすく伝える", 
+  "news_prearranged_time": "2017-05-18 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>大雨<rt>おおあめ</rt></ruby></a>や<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>洪水<rt>こうずい</rt></ruby></a>の<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>警報<rt>けいほう</rt></ruby></a>などを<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>発表<rt>はっぴょう</rt></ruby></a>するとき、<ruby>気<rt>き</rt></ruby>をつけなければならない<ruby>時間<rt>じかん</rt></ruby>を「<ruby>今夜<rt>こんや</rt></ruby><ruby>遅<rt>おそ</rt></ruby>くまで」などと<a href='javascript:void(0)' class='dicWin' id='id-0004'><ruby>文<rt>ぶん</rt></ruby></a>で<ruby>伝<rt>つた</rt></ruby>えていました。", 
+  "news_web_movie_uri": "k10010984211_201705170442_201705170447.mp4", 
+  "title_with_ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>　<ruby>大雨<rt>おおあめ</rt></ruby>などに<ruby>気<rt>き</rt></ruby>をつける<ruby>時間<rt>じかん</rt></ruby>をわかりやすく<ruby>伝<rt>つた</rt></ruby>える", 
+  "news_id": "k10010984211000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "5", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170517/../20170517/K10010984211_1705162246_1705170446_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

@@ -1,0 +1,23 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>川</rb><rt>かわ</rt></ruby>の<ruby><rb>流</rb><rt>なが</rt></ruby>れのすぐそばの、<ruby><rb>砂</rb><rt>すな</rt></ruby>や<ruby><rb>石</rb><rt>いし</rt></ruby>の<ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "河原",
+            "川原"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>洋風</rb><rt>ようふう</rt></ruby>の<ruby><rb>建物</rb><rt>たてもの</rt></ruby>から<ruby><rb>張</rb><rt>は</rt></ruby>り<ruby><rb>出</rb><rt>だ</rt></ruby>した、ひさしのあるえんがわ。",
+          "hyouki": [
+            "ベランダ"
+          ]
+        }
+      ]
+    }
+  }
+}

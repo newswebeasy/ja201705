@@ -1,0 +1,84 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>母親</rb><rt>ははおや</rt></ruby>に<ruby><rb>感謝</rb><rt>かんしゃ</rt></ruby>する<ruby><rb>日</rb><rt>ひ</rt></ruby>。<ruby><rb>五月</rb><rt>ごがつ</rt></ruby>の<ruby><rb>第二日曜日</rb><rt>だいににちようび</rt></ruby>。",
+          "hyouki": [
+            "母の日"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>赤</rb><rt>あか</rt></ruby>と<ruby><rb>青</rb><rt>あお</rt></ruby>の<ruby><rb>混</rb><rt>ま</rt></ruby>じった<ruby><rb>色</rb><rt>いろ</rt></ruby>。",
+          "hyouki": [
+            "紫"
+          ]
+        },
+        {
+          "def": "<ruby><rb>夏</rb><rt>なつ</rt></ruby>、<ruby><rb>白</rb><rt>しろ</rt></ruby>い<ruby><rb>小花</rb><rt>こばな</rt></ruby>をつける<ruby><rb>草</rb><rt>くさ</rt></ruby>。<ruby><rb>根</rb><rt>ね</rt></ruby>からむらさき<ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>染料</rb><rt>せんりょう</rt></ruby>をとる。",
+          "hyouki": [
+            "紫"
+          ]
+        },
+        {
+          "def": "「しょうゆ」の<ruby><rb>別</rb><rt>べつ</rt></ruby>の<ruby><rb>呼</rb><rt>よ</rt></ruby>び<ruby><rb>方</rb><rt>かた</rt></ruby>。",
+          "hyouki": [
+            "紫"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ナデシコのなかまで、<ruby><rb>春</rb><rt>はる</rt></ruby>から<ruby><rb>夏</rb><rt>なつ</rt></ruby>にかけて、<ruby><rb>赤</rb><rt>あか</rt></ruby>・<ruby><rb>白</rb><rt>しろ</rt></ruby>・ピンクなどの<ruby><rb>花</rb><rt>はな</rt></ruby>を<ruby><rb>咲</rb><rt>さ</rt></ruby>かせる<ruby><rb>草花</rb><rt>くさばな</rt></ruby>。<ruby><rb>母</rb><rt>はは</rt></ruby>の<ruby><rb>日</rb><rt>ひ</rt></ruby>のプレゼントに<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "カーネーション"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>送</rb><rt>おく</rt></ruby>った<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>着</rb><rt>つ</rt></ruby>く。",
+          "hyouki": [
+            "届く"
+          ]
+        },
+        {
+          "def": "のばしたものが、つく。",
+          "hyouki": [
+            "届く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>行</rb><rt>い</rt></ruby>きわたる。",
+          "hyouki": [
+            "届く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>願</rb><rt>ねが</rt></ruby>いなどがかなう。",
+          "hyouki": [
+            "届く"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>南</rb><rt>みなみ</rt></ruby>アメリカ<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>と、<ruby><rb>周辺</rb><rt>しゅうへん</rt></ruby>の<ruby><rb>島々</rb><rt>しまじま</rt></ruby>をふくむ<ruby><rb>地域</rb><rt>ちいき</rt></ruby>。<ruby><rb>東</rb><rt>ひがし</rt></ruby>は<ruby><rb>大西洋</rb><rt>たいせいよう</rt></ruby>、<ruby><rb>西</rb><rt>にし</rt></ruby>は<ruby><rb>太平洋</rb><rt>たいへいよう</rt></ruby>に<ruby><rb>面</rb><rt>めん</rt></ruby>し、<ruby><rb>北</rb><rt>きた</rt></ruby>は<ruby><rb>北</rb><rt>きた</rt></ruby>アメリカ<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>につながる。ブラジル・アルゼンチン・チリなどの<ruby><rb>国</rb><rt>くに</rt></ruby>がある。<ruby><rb>南米</rb><rt>なんべい</rt></ruby>。",
+          "hyouki": [
+            "南アメリカ"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "もも<ruby><rb>色</rb><rt>いろ</rt></ruby>。うすい<ruby><rb>赤色</rb><rt>あかいろ</rt></ruby>。",
+          "hyouki": [
+            "ピンク"
+          ]
+        }
+      ]
+    }
+  }
+}

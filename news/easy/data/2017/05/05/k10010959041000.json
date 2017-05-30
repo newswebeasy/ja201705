@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10010959041000.mp3", 
+  "title": "多摩動物公園「チーターの３匹の赤ちゃんを見に来て」", 
+  "news_prearranged_time": "2017-05-05 10:35:00", 
+  "news_easy_image_uri": "k10010959041000.jpg", 
+  "has_news_easy_image": true, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p><ruby>東京都<rt>とうきょうと</rt></ruby>の<ruby>多摩動物公園<rt>たまどうぶつこうえん</rt></ruby>で、２<ruby>月<rt>がつ</rt></ruby>に<a href='javascript:void(0)' class='dicWin' id='id-0000'>チーター</a>の<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>同<rt>おな</rt></ruby>じお<ruby>母<rt>かあ</rt></ruby>さんから３<ruby>匹<rt>びき</rt></ruby><ruby>生<rt>う</rt></ruby>まれました。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "<ruby>多摩動物公園<rt>たまどうぶつこうえん</rt></ruby>「チーターの３<ruby>匹<rt>びき</rt></ruby>の<ruby>赤<rt>あか</rt></ruby>ちゃんを<ruby>見<rt>み</rt></ruby>に<ruby>来<rt>き</rt></ruby>て」", 
+  "news_id": "k10010959041000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "7", 
+  "has_news_web_image": false, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "", 
+  "news_easy_movie_uri": "''"
+}

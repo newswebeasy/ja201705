@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10010963641000.mp3", 
+  "title": "笑いは「がん」の治療の役に立つかどうか研究する", 
+  "news_prearranged_time": "2017-05-01 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>笑<rt>わら</rt></ruby>うと、<a href='javascript:void(0)' class='dicWin' id='id-0003'>ストレス</a>が<ruby>少<rt>すく</rt></ruby>なくなるなど<ruby>体<rt>からだ</rt></ruby>にいいことがあると<ruby>言<rt>い</rt></ruby>われています。", 
+  "news_web_movie_uri": "k10010963641_201704271939_201704271940.mp4", 
+  "title_with_ruby": "<ruby>笑<rt>わら</rt></ruby>いは「がん」の<ruby>治療<rt>ちりょう</rt></ruby>の<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>つかどうか<ruby>研究<rt>けんきゅう</rt></ruby>する", 
+  "news_id": "k10010963641000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170427/../20170427/K10010963641_1704271939_1704271940_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

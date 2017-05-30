@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10010993961000.mp3", 
+  "title": "運動のあとチーズやヨーグルトを食べるとどうなるか調べる", 
+  "news_prearranged_time": "2017-05-25 16:20:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>信州大学<rt>しんしゅうだいがく</rt></ruby>の<ruby>能勢<rt>のせ</rt></ruby><ruby>博<rt>ひろし</rt></ruby><a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>教授<rt>きょうじゅ</rt></ruby></a>の<ruby>研究<rt>けんきゅう</rt></ruby><a href='javascript:void(0)' class='dicWin' id='id-0003'>グループ</a>は、<ruby>運動<rt>うんどう</rt></ruby>のあと<a href='javascript:void(0)' class='dicWin' id='id-0000'>チーズ</a>や<a href='javascript:void(0)' class='dicWin' id='id-0001'>ヨーグルト</a>などの<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>から<ruby>作<rt>つく</rt></ruby>った<ruby>物<rt>もの</rt></ruby>を<ruby>食<rt>た</rt></ruby>べると、<ruby>体<rt>からだ</rt></ruby>がどうなるか<ruby>調<rt>しら</rt></ruby>べました。", 
+  "news_web_movie_uri": "k10010993961_201705250907_201705250908.mp4", 
+  "title_with_ruby": "<ruby>運動<rt>うんどう</rt></ruby>のあとチーズやヨーグルトを<ruby>食<rt>た</rt></ruby>べるとどうなるか<ruby>調<rt>しら</rt></ruby>べる", 
+  "news_id": "k10010993961000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170525/../20170525/K10010993961_1705250907_1705250908_01_03.jpg?utm_int=news-life_contents_list-items_001", 
+  "news_easy_movie_uri": "''"
+}

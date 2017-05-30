@@ -1,0 +1,168 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>機械</rb><rt>きかい</rt></ruby>などが<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>くこと。",
+          "hyouki": [
+            "自動"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>の<ruby><rb>生長</rb><rt>せいちょう</rt></ruby>をよくするために、<ruby><rb>土</rb><rt>つち</rt></ruby>にあたえる<ruby><rb>栄養分</rb><rt>えいようぶん</rt></ruby>。",
+          "hyouki": [
+            "肥料"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>土</rb><rt>つち</rt></ruby>を<ruby><rb>盛</rb><rt>も</rt></ruby>り<ruby><rb>上</rb><rt>あ</rt></ruby>げ、<ruby><rb>仕切</rb><rt>しき</rt></ruby>りをして、<ruby><rb>草花</rb><rt>くさばな</rt></ruby>を<ruby><rb>植</rb><rt>う</rt></ruby>えた<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "花壇"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "メートル<ruby><rb>法</rb><rt>ほう</rt></ruby>で、<ruby><rb>量</rb><rt>りょう</rt></ruby>の<ruby><rb>基本</rb><rt>きほん</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。一リットルは、一〇〇〇<ruby><rb>立方</rb><rt>りっぽう</rt></ruby>センチメートル。一<ruby><rb>辺</rb><rt>ぺん</rt></ruby>が一〇センチメートルの<ruby><rb>立方体</rb><rt>りっぽうたい</rt></ruby>の<ruby><rb>体積</rb><rt>たいせき</rt></ruby>を一リットルとする。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「L」。",
+          "hyouki": [
+            "リットル"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>水</rb><rt>みず</rt></ruby>・ガス・<ruby><rb>石油</rb><rt>せきゆ</rt></ruby>などをためておく、<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "タンク"
+          ]
+        },
+        {
+          "def": "<ruby><rb>戦車</rb><rt>せんしゃ</rt></ruby>。",
+          "hyouki": [
+            "タンク"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>で<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>と<ruby><rb>光</rb><rt>ひかり</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>している<ruby><rb>星</rb><rt>ほし</rt></ruby>。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>に<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>光</rb><rt>ひかり</rt></ruby>をあたえ、<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>を<ruby><rb>育</rb><rt>そだ</rt></ruby>てる。お<ruby><rb>日</rb><rt>ひ</rt></ruby>さま。",
+          "hyouki": [
+            "太陽"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "かべ・ゆかなどにはめこむ<ruby><rb>板</rb><rt>いた</rt></ruby>。",
+          "hyouki": [
+            "パネル"
+          ]
+        },
+        {
+          "def": "<ruby><rb>絵</rb><rt>え</rt></ruby>をかく<ruby><rb>板</rb><rt>いた</rt></ruby>。また、<ruby><rb>板</rb><rt>いた</rt></ruby>にかいた<ruby><rb>絵</rb><rt>え</rt></ruby>。",
+          "hyouki": [
+            "パネル"
+          ]
+        },
+        {
+          "def": "<ruby><rb>写真</rb><rt>しゃしん</rt></ruby>などをはった<ruby><rb>板</rb><rt>いた</rt></ruby>。",
+          "hyouki": [
+            "パネル"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "ものがくっつく。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "つきそう。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>加</rb><rt>くわ</rt></ruby>わる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>草木</rb><rt>くさき</rt></ruby>が、かれずに<ruby><rb>根</rb><rt>ね</rt></ruby>をおろす。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>感</rb><rt>かん</rt></ruby>じる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>値段</rb><rt>ねだん</rt></ruby>になる。",
+          "hyouki": [
+            "付く"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>められた<ruby><rb>時刻</rb><rt>じこく</rt></ruby>になると、スイッチが<ruby><rb>入</rb><rt>はい</rt></ruby>ったり<ruby><rb>切</rb><rt>き</rt></ruby>れたりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。タイマー。",
+          "hyouki": [
+            "タイムスイッチ"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>が、<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。",
+          "hyouki": [
+            "育つ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>一人前</rb><rt>いちにんまえ</rt></ruby>になる。",
+          "hyouki": [
+            "育つ"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。",
+          "hyouki": [
+            "イベント"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "イベント"
+          ]
+        }
+      ]
+    }
+  }
+}

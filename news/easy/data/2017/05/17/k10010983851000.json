@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10010983851000.mp3", 
+  "title": "家庭の貯金や株が４年続けて増える", 
+  "news_prearranged_time": "2017-05-17 15:40:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>総務省<rt>そうむしょう</rt></ruby></a>によると、<ruby>去年<rt>きょねん</rt></ruby>１<ruby>年<rt>ねん</rt></ruby>の<ruby>２人<rt>ふたり</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>家庭<rt>かてい</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>貯金<rt>ちょきん</rt></ruby></a>や<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>株<rt>かぶ</rt></ruby></a>などは、<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>平均<rt>へいきん</rt></ruby></a>で１８２０<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>でした。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "<ruby>家庭<rt>かてい</rt></ruby>の<ruby>貯金<rt>ちょきん</rt></ruby>や<ruby>株<rt>かぶ</rt></ruby>が４<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>増<rt>ふ</rt></ruby>える", 
+  "news_id": "k10010983851000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170516/../20170516/K10010983851_1705161823_1705161824_01_02.jpg?utm_int=nsearch_contents_search-items_001", 
+  "news_easy_movie_uri": "''"
+}

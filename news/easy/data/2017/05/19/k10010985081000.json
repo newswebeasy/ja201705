@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10010985081000.mp3", 
+  "title": "子どもが海などで亡くなる事故は５月から増える", 
+  "news_prearranged_time": "2017-05-19 11:30:00", 
+  "news_easy_image_uri": "k10010985081000.jpg", 
+  "has_news_easy_image": true, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>消費者庁<rt>しょうひしゃちょう</rt></ruby>によると、２０１０<ruby>年<rt>ねん</rt></ruby>から２０１４<ruby>年<rt>ねん</rt></ruby>に<ruby>海<rt>うみ</rt></ruby>や<ruby>川<rt>かわ</rt></ruby>、プールなどで１４<ruby>歳<rt>さい</rt></ruby><ruby>以下<rt>いか</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもが<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>溺<rt>おぼ</rt></ruby>れ</a>て<ruby>亡<rt>な</rt></ruby>くなった<ruby>事故<rt>じこ</rt></ruby>は２０２<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>件<rt>けん</rt></ruby></a>ありました。", 
+  "news_web_movie_uri": "k10010985081_201705171814_201705171818.mp4", 
+  "title_with_ruby": "<ruby>子<rt>こ</rt></ruby>どもが<ruby>海<rt>うみ</rt></ruby>などで<ruby>亡<rt>な</rt></ruby>くなる<ruby>事故<rt>じこ</rt></ruby>は５<ruby>月<rt>がつ</rt></ruby>から<ruby>増<rt>ふ</rt></ruby>える", 
+  "news_id": "k10010985081000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": false, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "", 
+  "news_easy_movie_uri": "''"
+}

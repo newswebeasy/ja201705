@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10010976661000.mp3", 
+  "title": "ラグビーのワールドカップ　試合をするグループが決まる", 
+  "news_prearranged_time": "2017-05-11 16:05:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>２０１９<ruby>年<rt>ねん</rt></ruby>に<a href='javascript:void(0)' class='dicWin' id='id-0000'>ラグビー</a>の<a href='javascript:void(0)' class='dicWin' id='id-0001'>ワールドカップ</a>が<ruby>初<rt>はじ</rt></ruby>めて<ruby>日本<rt>にっぽん</rt></ruby>であります。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "ラグビーのワールドカップ　<ruby>試合<rt>しあい</rt></ruby>をするグループが<ruby>決<rt>き</rt></ruby>まる", 
+  "news_id": "k10010976661000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20170510/../20170510/K10010976661_1705101814_1705101818_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

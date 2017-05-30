@@ -1,0 +1,152 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>激</rb><rt>はげ</rt></ruby>しくたくさん<ruby><rb>降</rb><rt>ふ</rt></ruby>る<ruby><rb>雨</rb><rt>あめ</rt></ruby>。<ruby><rb>豪雨</rb><rt>ごうう</rt></ruby>。",
+          "hyouki": [
+            "大雨"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>大雨</rb><rt>おおあめ</rt></ruby>や<ruby><rb>雪解</rb><rt>ゆきど</rt></ruby>け<ruby><rb>水</rb><rt>みず</rt></ruby>のため、<ruby><rb>川</rb><rt>かわ</rt></ruby>の<ruby><rb>水</rb><rt>みず</rt></ruby>があふれ<ruby><rb>出</rb><rt>で</rt></ruby>ること。<ruby><rb>大水</rb><rt>おおみず</rt></ruby>。",
+          "hyouki": [
+            "洪水"
+          ]
+        },
+        {
+          "def": "あふれるほど<ruby><rb>多</rb><rt>おお</rt></ruby>いこと。",
+          "hyouki": [
+            "洪水"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>危険</rb><rt>きけん</rt></ruby>が<ruby><rb>起</rb><rt>お</rt></ruby>こりそうなときに、<ruby><rb>警戒</rb><rt>けいかい</rt></ruby>のために<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>知</rb><rt>し</rt></ruby>らせ。",
+          "hyouki": [
+            "警報"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ことばをつづって、ひとまとまりにしたもの。",
+          "hyouki": [
+            "文"
+          ]
+        },
+        {
+          "def": "<ruby><rb>学問</rb><rt>がくもん</rt></ruby>や<ruby><rb>芸術</rb><rt>げいじゅつ</rt></ruby>。",
+          "hyouki": [
+            "文"
+          ]
+        },
+        {
+          "def": "もよう。",
+          "hyouki": [
+            "文"
+          ]
+        },
+        {
+          "def": "ことば。もじ。",
+          "hyouki": [
+            "文"
+          ]
+        },
+        {
+          "def": "<ruby><rb>昔</rb><rt>むかし</rt></ruby>の、<ruby><rb>長</rb><rt>なが</rt></ruby>さやお<ruby><rb>金</rb><rt>かね</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。",
+          "hyouki": [
+            "文"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。",
+          "hyouki": [
+            "ウェブサイト"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>別々</rb><rt>べつべつ</rt></ruby>にする。はなす。",
+          "hyouki": [
+            "分ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>配</rb><rt>くば</rt></ruby>る。<ruby><rb>分配</rb><rt>ぶんぱい</rt></ruby>する。",
+          "hyouki": [
+            "分ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>両側</rb><rt>りょうがわ</rt></ruby>に、おし<ruby><rb>開</rb><rt>ひら</rt></ruby>く。",
+          "hyouki": [
+            "分ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>分</rb><rt>わ</rt></ruby>けにする。",
+          "hyouki": [
+            "分ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>筋道</rb><rt>すじみち</rt></ruby>を<ruby><rb>立</rb><rt>た</rt></ruby>てる。",
+          "hyouki": [
+            "分ける"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>災害</rb><rt>さいがい</rt></ruby>のおそれがあるとき、<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>呼</rb><rt>よ</rt></ruby>びかける<ruby><rb>知</rb><rt>し</rt></ruby>らせ。",
+          "hyouki": [
+            "注意報"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>赤</rb><rt>あか</rt></ruby>と<ruby><rb>青</rb><rt>あお</rt></ruby>の<ruby><rb>混</rb><rt>ま</rt></ruby>じった<ruby><rb>色</rb><rt>いろ</rt></ruby>。",
+          "hyouki": [
+            "紫"
+          ]
+        },
+        {
+          "def": "<ruby><rb>夏</rb><rt>なつ</rt></ruby>、<ruby><rb>白</rb><rt>しろ</rt></ruby>い<ruby><rb>小花</rb><rt>こばな</rt></ruby>をつける<ruby><rb>草</rb><rt>くさ</rt></ruby>。<ruby><rb>根</rb><rt>ね</rt></ruby>からむらさき<ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>染料</rb><rt>せんりょう</rt></ruby>をとる。",
+          "hyouki": [
+            "紫"
+          ]
+        },
+        {
+          "def": "「しょうゆ」の<ruby><rb>別</rb><rt>べつ</rt></ruby>の<ruby><rb>呼</rb><rt>よ</rt></ruby>び<ruby><rb>方</rb><rt>かた</rt></ruby>。",
+          "hyouki": [
+            "紫"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。<ruby><rb>動作</rb><rt>どうさ</rt></ruby>。",
+          "hyouki": [
+            "行動"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>持</rb><rt>も</rt></ruby>ち<ruby><rb>物</rb><rt>もの</rt></ruby>を、<ruby><rb>人</rb><rt>ひと</rt></ruby>にあげる。",
+          "hyouki": [
+            "譲る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>に、お<ruby><rb>金</rb><rt>かね</rt></ruby>と<ruby><rb>引</rb><rt>ひ</rt></ruby>きかえにわたす。",
+          "hyouki": [
+            "譲る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>より<ruby><rb>相手</rb><rt>あいて</rt></ruby>を<ruby><rb>先</rb><rt>さき</rt></ruby>にする。",
+          "hyouki": [
+            "譲る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>日時</rb><rt>にちじ</rt></ruby>を<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>延</rb><rt>の</rt></ruby>ばす。",
+          "hyouki": [
+            "譲る"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "アメリカ・カナダなどで<ruby><rb>使</rb><rt>つか</rt></ruby>われているお<ruby><rb>金</rb><rt>かね</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。<ruby><rb>一</rb><rt>いち</rt></ruby>ドルは一〇〇セント。",
+          "hyouki": [
+            "ドル"
+          ]
+        },
+        {
+          "def": "お<ruby><rb>金</rb><rt>かね</rt></ruby>。",
+          "hyouki": [
+            "ドル"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つ、<ruby><rb>二</rb><rt>ふた</rt></ruby>つ、<ruby><rb>三</rb><rt>みっ</rt></ruby>つなどと<ruby><rb>数</rb><rt>かぞ</rt></ruby>えた<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>。すう。",
+          "hyouki": [
+            "数"
+          ]
+        },
+        {
+          "def": "いくつもあること。たくさん。",
+          "hyouki": [
+            "数"
+          ]
+        },
+        {
+          "def": "<ruby><rb>数</rb><rt>かぞ</rt></ruby>えあげる<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのあるもの。なかま。",
+          "hyouki": [
+            "数"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>や<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>ること。",
+          "hyouki": [
+            "保安"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>から<ruby><rb>低</rb><rt>ひく</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>へ<ruby><rb>移</rb><rt>うつ</rt></ruby>す。",
+          "hyouki": [
+            "降ろす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>下</rb><rt>した</rt></ruby>のほうに<ruby><rb>移</rb><rt>うつ</rt></ruby>す。",
+          "hyouki": [
+            "降ろす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>から<ruby><rb>外</rb><rt>そと</rt></ruby>へ<ruby><rb>出</rb><rt>だ</rt></ruby>す。",
+          "hyouki": [
+            "降ろす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>役目</rb><rt>やくめ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をやめさせる。",
+          "hyouki": [
+            "降ろす"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>から<ruby><rb>低</rb><rt>ひく</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>へ<ruby><rb>移</rb><rt>うつ</rt></ruby>す。",
+          "hyouki": [
+            "降ろす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>下</rb><rt>した</rt></ruby>のほうに<ruby><rb>移</rb><rt>うつ</rt></ruby>す。",
+          "hyouki": [
+            "降ろす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>から<ruby><rb>外</rb><rt>そと</rt></ruby>へ<ruby><rb>出</rb><rt>だ</rt></ruby>す。",
+          "hyouki": [
+            "降ろす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>役目</rb><rt>やくめ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をやめさせる。",
+          "hyouki": [
+            "降ろす"
+          ]
+        }
+      ]
+    }
+  }
+}

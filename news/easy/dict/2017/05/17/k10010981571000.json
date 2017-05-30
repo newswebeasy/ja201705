@@ -1,0 +1,22 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>から、パラシュートを<ruby><rb>用</rb><rt>もち</rt></ruby>いて<ruby><rb>地上</rb><rt>ちじょう</rt></ruby>に<ruby><rb>降下</rb><rt>こうか</rt></ruby>するスポーツ。",
+          "hyouki": [
+            "スカイダイビング"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>上空</rb><rt>じょうくう</rt></ruby>から<ruby><rb>飛</rb><rt>と</rt></ruby>び<ruby><rb>降</rb><rt>お</rt></ruby>りたり<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>落</rb><rt>お</rt></ruby>としたりするとき、<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>に<ruby><rb>地面</rb><rt>じめん</rt></ruby>に<ruby><rb>着</rb><rt>つ</rt></ruby>けるように<ruby><rb>使</rb><rt>つか</rt></ruby>う、<ruby><rb>傘</rb><rt>かさ</rt></ruby>のようなもの。<ruby><rb>落下傘</rb><rt>らっかさん</rt></ruby>。",
+          "hyouki": [
+            "パラシュート"
+          ]
+        }
+      ]
+    }
+  }
+}

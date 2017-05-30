@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10010980631000.mp3", 
+  "title": "長野県　山に登る外国人を案内する「通訳案内士」ができる", 
+  "news_prearranged_time": "2017-05-16 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>「<ruby>通訳案内士<rt>つうやくあんないし</rt></ruby>」は、<ruby>日本<rt>にっぽん</rt></ruby>を<ruby>旅行<rt>りょこう</rt></ruby>する<ruby>外国人<rt>がいこくじん</rt></ruby>を<ruby>外国<rt>がいこく</rt></ruby><ruby>語<rt>ご</rt></ruby>で<ruby>案内<rt>あんない</rt></ruby>する<ruby>仕事<rt>しごと</rt></ruby>をします。", 
+  "news_web_movie_uri": "k10010980631_201705140509_201705140513.mp4", 
+  "title_with_ruby": "<ruby>長野県<rt>ながのけん</rt></ruby>　<ruby>山<rt>やま</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>る<ruby>外国人<rt>がいこくじん</rt></ruby>を<ruby>案内<rt>あんない</rt></ruby>する「<ruby>通訳案内士<rt>つうやくあんないし</rt></ruby>」ができる", 
+  "news_id": "k10010980631000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "5", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170514/../20170514/K10010980631_1705140509_1705140513_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

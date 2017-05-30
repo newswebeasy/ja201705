@@ -1,0 +1,136 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>牛乳</rb><rt>ぎゅうにゅう</rt></ruby>などを<ruby><rb>発酵</rb><rt>はっこう</rt></ruby>させて、<ruby><rb>固</rb><rt>かた</rt></ruby>めた<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "チーズ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>牛乳</rb><rt>ぎゅうにゅう</rt></ruby>などに<ruby><rb>乳酸菌</rb><rt>にゅうさんきん</rt></ruby>を<ruby><rb>加</rb><rt>くわ</rt></ruby>えて<ruby><rb>発酵</rb><rt>はっこう</rt></ruby>させた<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "ヨーグルト"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>大学</rb><rt>だいがく</rt></ruby>の<ruby><rb>先生</rb><rt>せんせい</rt></ruby>。",
+          "hyouki": [
+            "教授"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>にものを<ruby><rb>教</rb><rt>おし</rt></ruby>えること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "教授"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "うしろ。",
+          "hyouki": [
+            "後"
+          ]
+        },
+        {
+          "def": "のち。あと。",
+          "hyouki": [
+            "後"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>動</rb><rt>うご</rt></ruby>かすはたらきをする、<ruby><rb>細</rb><rt>ほそ</rt></ruby>い<ruby><rb>筋</rb><rt>すじ</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まってできているもの。<ruby><rb>骨</rb><rt>ほね</rt></ruby>につながっているものと、<ruby><rb>内臓</rb><rt>ないぞう</rt></ruby>のかべを<ruby><rb>作</rb><rt>つく</rt></ruby>っているものとがある。",
+          "hyouki": [
+            "筋肉"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>少</rb><rt>すく</rt></ruby>ないや<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>いなどがないように、ならすこと。",
+          "hyouki": [
+            "平均"
+          ]
+        },
+        {
+          "def": "つり<ruby><rb>合</rb><rt>あ</rt></ruby>いがとれること。バランス。",
+          "hyouki": [
+            "平均"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>食生活</rb><rt>しょくせいかつ</rt></ruby>や<ruby><rb>運動</rb><rt>うんどう</rt></ruby>・<ruby><rb>飲酒</rb><rt>いんしゅ</rt></ruby>などの<ruby><rb>生活習慣</rb><rt>せいかつしゅうかん</rt></ruby>に<ruby><rb>深</rb><rt>ふか</rt></ruby>いかかわりのある<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。がんや<ruby><rb>高血圧</rb><rt>こうけつあつ</rt></ruby>など。もとは「<ruby><rb>成人病</rb><rt>せいじんびょう</rt></ruby>」といった。",
+          "hyouki": [
+            "生活習慣病"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>染色体</rb><rt>せんしょくたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にあって、<ruby><rb>遺伝</rb><rt>いでん</rt></ruby>のはたらきをする<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>。",
+          "hyouki": [
+            "遺伝子"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をすること。",
+          "hyouki": [
+            "働き"
+          ]
+        },
+        {
+          "def": "<ruby><rb>活動</rb><rt>かつどう</rt></ruby>すること。",
+          "hyouki": [
+            "働き"
+          ]
+        },
+        {
+          "def": "ほかに<ruby><rb>影響</rb><rt>えいきょう</rt></ruby>や<ruby><rb>力</rb><rt>ちから</rt></ruby>をおよぼすこと。<ruby><rb>作用</rb><rt>さよう</rt></ruby>。",
+          "hyouki": [
+            "働き"
+          ]
+        },
+        {
+          "def": "<ruby><rb>活躍</rb><rt>かつやく</rt></ruby>。<ruby><rb>骨折</rb><rt>ほねお</rt></ruby>り。",
+          "hyouki": [
+            "働き"
+          ]
+        },
+        {
+          "def": "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をして<ruby><rb>収入</rb><rt>しゅうにゅう</rt></ruby>を<ruby><rb>得</rb><rt>え</rt></ruby>る<ruby><rb>力</rb><rt>ちから</rt></ruby>。かせぎ。",
+          "hyouki": [
+            "働き"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。",
+          "hyouki": [
+            "可能性"
+          ]
+        }
+      ]
+    }
+  }
+}

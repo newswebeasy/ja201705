@@ -1,0 +1,68 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>実物</rb><rt>じつぶつ</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>仕組</rb><rt>しく</rt></ruby>みに<ruby><rb>似</rb><rt>に</rt></ruby>せて<ruby><rb>作</rb><rt>つく</rt></ruby>ったもの。ひながた。",
+          "hyouki": [
+            "模型"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>売</rb><rt>う</rt></ruby>ったり<ruby><rb>買</rb><rt>か</rt></ruby>ったりするための<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。",
+          "hyouki": [
+            "商品"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>電気</rb><rt>でんき</rt></ruby>や<ruby><rb>蒸気</rb><rt>じょうき</rt></ruby>・ガソリンなどで、<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>動</rb><rt>うご</rt></ruby>かす<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>機械</rb><rt>きかい</rt></ruby>。<ruby><rb>電動機</rb><rt>でんどうき</rt></ruby>。<ruby><rb>発動機</rb><rt>はつどうき</rt></ruby>。",
+          "hyouki": [
+            "モーター"
+          ]
+        },
+        {
+          "def": "<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>。",
+          "hyouki": [
+            "モーター"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。",
+          "hyouki": [
+            "人気"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>彫刻</rb><rt>ちょうこく</rt></ruby>を<ruby><rb>専門</rb><rt>せんもん</rt></ruby>にする<ruby><rb>芸術家</rb><rt>げいじゅつか</rt></ruby>。",
+          "hyouki": [
+            "彫刻家"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>作</rb><rt>つく</rt></ruby>ったもの。<ruby><rb>文学</rb><rt>ぶんがく</rt></ruby>・<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>・<ruby><rb>美術</rb><rt>びじゅつ</rt></ruby>などで、<ruby><rb>作者</rb><rt>さくしゃ</rt></ruby>が<ruby><rb>創造</rb><rt>そうぞう</rt></ruby>したもの。",
+          "hyouki": [
+            "作品"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>鉢</rb><rt>はち</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さい<ruby><rb>木</rb><rt>き</rt></ruby>を<ruby><rb>植</rb><rt>う</rt></ruby>え、<ruby><rb>美</rb><rt>うつく</rt></ruby>しく<ruby><rb>手入</rb><rt>てい</rt></ruby>れをして<ruby><rb>楽</rb><rt>たの</rt></ruby>しむもの。",
+          "hyouki": [
+            "盆栽"
+          ]
+        }
+      ]
+    }
+  }
+}

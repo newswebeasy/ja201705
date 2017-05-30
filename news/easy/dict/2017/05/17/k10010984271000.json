@@ -1,0 +1,80 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>遊</rb><rt>あそ</rt></ruby>び。",
+          "hyouki": [
+            "ゲーム"
+          ]
+        },
+        {
+          "def": "<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "ゲーム"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。",
+          "hyouki": [
+            "イベント"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "イベント"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>勝</rb><rt>か</rt></ruby>ったほうがもらう<ruby><rb>約束</rb><rt>やくそく</rt></ruby>で、お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。かけごとをする。",
+          "hyouki": [
+            "賭ける"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "すりばち<ruby><rb>形</rb><rt>がた</rt></ruby>の<ruby><rb>円盤</rb><rt>えんばん</rt></ruby>に<ruby><rb>玉</rb><rt>たま</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れて<ruby><rb>回</rb><rt>まわ</rt></ruby>し、<ruby><rb>止</rb><rt>と</rt></ruby>まった<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>によって<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める<ruby><rb>遊</rb><rt>あそ</rt></ruby>び<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。",
+          "hyouki": [
+            "ルーレット"
+          ]
+        },
+        {
+          "def": "<ruby><rb>布</rb><rt>ぬの</rt></ruby>や<ruby><rb>紙</rb><rt>かみ</rt></ruby>に、<ruby><rb>点線</rb><rt>てんせん</rt></ruby>のしるしをつける<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。<ruby><rb>柄</rb><rt>え</rt></ruby>の<ruby><rb>先</rb><rt>さき</rt></ruby>につけた<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>歯車</rb><rt>はぐるま</rt></ruby>を<ruby><rb>転</rb><rt>ころ</rt></ruby>がして<ruby><rb>使</rb><rt>つか</rt></ruby>う。ルレット。",
+          "hyouki": [
+            "ルーレット"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "してはいけないと<ruby><rb>止</rb><rt>と</rt></ruby>めること。",
+          "hyouki": [
+            "禁止"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>勝</rb><rt>か</rt></ruby>ったほうがもらう<ruby><rb>約束</rb><rt>やくそく</rt></ruby>で、お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。かけごとをする。",
+          "hyouki": [
+            "賭ける"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うやり<ruby><rb>方</rb><rt>かた</rt></ruby>。しかた。",
+          "hyouki": [
+            "方法"
+          ]
+        }
+      ]
+    }
+  }
+}

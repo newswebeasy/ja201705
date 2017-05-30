@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10010966941000.mp3", 
+  "title": "「クールビズ」の季節　デパートが新しい商品を売り始める", 
+  "news_prearranged_time": "2017-05-02 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>「クールビズ」は、<ruby>暑<rt>あつ</rt></ruby>い<ruby>季節<rt>きせつ</rt></ruby>に<ruby>冷房<rt>れいぼう</rt></ruby>をあまり<ruby>使<rt>つか</rt></ruby>わないように<ruby>仕事<rt>しごと</rt></ruby>でも<ruby>涼<rt>すず</rt></ruby>しい<ruby>服<rt>ふく</rt></ruby>を<ruby>着<rt>き</rt></ruby>たりすることで、<ruby>今年<rt>ことし</rt></ruby>も５<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>まりました。", 
+  "news_web_movie_uri": "k10010966941_201704301215_201704301220.mp4", 
+  "title_with_ruby": "「クールビズ」の<ruby>季節<rt>きせつ</rt></ruby>　デパートが<ruby>新<rt>あたら</rt></ruby>しい<ruby>商品<rt>しょうひん</rt></ruby>を<ruby>売<rt>う</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>める", 
+  "news_id": "k10010966941000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170430/../20170430/K10010966941_1704301134_1704301138_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

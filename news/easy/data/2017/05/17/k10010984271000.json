@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10010984271000.mp3", 
+  "title": "マカオ　カジノのゲームの機械を紹介するイベント", 
+  "news_prearranged_time": "2017-05-17 15:40:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>カジノは、お<ruby>金<rt>かね</rt></ruby>を<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>賭<rt>か</rt></ruby>け</a>て<a href='javascript:void(0)' class='dicWin' id='id-0003'>ルーレット</a>などの<a href='javascript:void(0)' class='dicWin' id='id-0000'>ゲーム</a>で<ruby>遊<rt>あそ</rt></ruby>ぶ<ruby>場所<rt>ばしょ</rt></ruby>です。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "マカオ　カジノのゲームの<ruby>機械<rt>きかい</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>するイベント", 
+  "news_id": "k10010984271000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170517/../20170517/K10010984271_1705170607_1705170619_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

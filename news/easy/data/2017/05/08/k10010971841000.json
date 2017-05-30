@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10010971841000.mp3", 
+  "title": "福岡県の沖ノ島などが７月に世界文化遺産になりそう", 
+  "news_prearranged_time": "2017-05-08 16:15:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p><ruby>国<rt>くに</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby>「『<ruby>神<rt>かみ</rt></ruby><ruby>宿<rt>やど</rt></ruby>る<ruby>島<rt>しま</rt></ruby>』<ruby>宗像<rt>むなかた</rt></ruby>・<ruby>沖<rt>おき</rt></ruby>ノ<ruby>島<rt>しま</rt></ruby>と<ruby>関連遺産群<rt>かんれんいさんぐん</rt></ruby>」を<a href='javascript:void(0)' class='dicWin' id='id-0001'>ユネスコ</a>の<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>世界文化遺産<rt>せかいぶんかいさん</rt></ruby></a>に<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>推薦<rt>すいせん</rt></ruby></a>しました。", 
+  "news_web_movie_uri": "k10010971841_201705061206_201705061208.mp4", 
+  "title_with_ruby": "<ruby>福岡県<rt>ふくおかけん</rt></ruby>の<ruby>沖<rt>おき</rt></ruby>ノ<ruby>島<rt>しま</rt></ruby>などが７<ruby>月<rt>がつ</rt></ruby>に<ruby>世界文化遺産<rt>せかいぶんかいさん</rt></ruby>になりそう", 
+  "news_id": "k10010971841000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20170506/../20170506/K10010971841_1705061206_1705061209_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

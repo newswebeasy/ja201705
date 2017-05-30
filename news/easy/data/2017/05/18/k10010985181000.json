@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10010985181000.mp3", 
+  "title": "４００種類以上のビールを楽しむイベントが始まる", 
+  "news_prearranged_time": "2017-05-18 16:40:00", 
+  "news_easy_image_uri": "k10010985181000.jpg", 
+  "has_news_easy_image": true, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>世界<rt>せかい</rt></ruby>の「クラフトビール」を<ruby>楽<rt>たの</rt></ruby>しむ<a href='javascript:void(0)' class='dicWin' id='id-0001'>イベント</a>が１７<ruby>日<rt>にち</rt></ruby>から<ruby>埼玉県<rt>さいたまけん</rt></ruby>のさいたま<ruby>新都心<rt>しんとしん</rt></ruby><ruby>駅<rt>えき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>広場<rt>ひろば</rt></ruby></a>で<ruby>始<rt>はじ</rt></ruby>まりました。", 
+  "news_web_movie_uri": "k10010985181_201705171910_201705171911.mp4", 
+  "title_with_ruby": "４００<ruby>種類<rt>しゅるい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>のビールを<ruby>楽<rt>たの</rt></ruby>しむイベントが<ruby>始<rt>はじ</rt></ruby>まる", 
+  "news_id": "k10010985181000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": false, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "", 
+  "news_easy_movie_uri": "''"
+}

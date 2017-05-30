@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10010960241000.mp3", 
+  "title": "アメリカの会社が「空を飛ぶ乗り物」を今年中に売る", 
+  "news_prearranged_time": "2017-05-05 10:35:00", 
+  "news_easy_image_uri": "k10010960241000.jpg", 
+  "has_news_easy_image": true, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p>アメリカのキティホークという<ruby>会社<rt>かいしゃ</rt></ruby>が、ドローンのように「<ruby>空<rt>そら</rt></ruby>を<ruby>飛<rt>と</rt></ruby>ぶ<ruby>乗<rt>の</rt></ruby>り<ruby>物<rt>もの</rt></ruby>」をつくりました。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "アメリカの<ruby>会社<rt>かいしゃ</rt></ruby>が「<ruby>空<rt>そら</rt></ruby>を<ruby>飛<rt>と</rt></ruby>ぶ<ruby>乗<rt>の</rt></ruby>り<ruby>物<rt>もの</rt></ruby>」を<ruby>今年<rt>ことし</rt></ruby><ruby>中<rt>じゅう</rt></ruby>に<ruby>売<rt>う</rt></ruby>る", 
+  "news_id": "k10010960241000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": false, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "", 
+  "news_easy_movie_uri": "''"
+}

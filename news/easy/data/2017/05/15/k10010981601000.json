@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10010981601000.mp3", 
+  "title": "サイバー攻撃　世界中のコンピューターに大きな被害", 
+  "news_prearranged_time": "2017-05-15 16:35:00", 
+  "news_easy_image_uri": "k10010981601000.jpg", 
+  "has_news_easy_image": true, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>先週<rt>せんしゅう</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりから<ruby>世界中<rt>せかいじゅう</rt></ruby>で「サイバー<ruby>攻撃<rt>こうげき</rt></ruby>」があって、コンピューターに<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>被害<rt>ひがい</rt></ruby></a>があった<ruby>病院<rt>びょういん</rt></ruby>や<ruby>会社<rt>かいしゃ</rt></ruby>などは<ruby>仕事<rt>しごと</rt></ruby>ができなくなって<ruby>困<rt>こま</rt></ruby>っています。", 
+  "news_web_movie_uri": "k10010981601_201705150440_201705150441.mp4", 
+  "title_with_ruby": "サイバー<ruby>攻撃<rt>こうげき</rt></ruby>　<ruby>世界中<rt>せかいじゅう</rt></ruby>のコンピューターに<ruby>大<rt>おお</rt></ruby>きな<ruby>被害<rt>ひがい</rt></ruby>", 
+  "news_id": "k10010981601000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": false, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "", 
+  "news_easy_movie_uri": "''"
+}

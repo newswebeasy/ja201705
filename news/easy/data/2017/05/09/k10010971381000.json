@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10010971381000.mp3", 
+  "title": "去年６９歳で死んだ象の「はな子」の像ができる", 
+  "news_prearranged_time": "2017-05-09 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>東京都<rt>とうきょうと</rt></ruby><ruby>武蔵野市<rt>むさしのし</rt></ruby>の<ruby>動物園<rt>どうぶつえん</rt></ruby>にいた<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>雌<rt>めす</rt></ruby></a>の<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>象<rt>ぞう</rt></ruby></a>の「はな<ruby>子<rt>こ</rt></ruby>」は、<ruby>去年<rt>きょねん</rt></ruby>５<ruby>月<rt>がつ</rt></ruby>に６９<ruby>歳<rt>さい</rt></ruby>で<ruby>死<rt>し</rt></ruby>にました。", 
+  "news_web_movie_uri": "k10010971381_201705051155_201705051156.mp4", 
+  "title_with_ruby": "<ruby>去年<rt>きょねん</rt></ruby>６９<ruby>歳<rt>さい</rt></ruby>で<ruby>死<rt>し</rt></ruby>んだ<ruby>象<rt>ぞう</rt></ruby>の「はな<ruby>子<rt>こ</rt></ruby>」の<ruby>像<rt>ぞう</rt></ruby>ができる", 
+  "news_id": "k10010971381000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170505/../20170505/K10010971381_1705051155_1705051156_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}
