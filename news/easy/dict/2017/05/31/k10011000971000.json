@@ -1,0 +1,94 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "アジア<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>東</rb><rt>ひがし</rt></ruby>と<ruby><rb>日本列島</rb><rt>にほんれっとう</rt></ruby>にはさまれた<ruby><rb>海</rb><rt>うみ</rt></ruby>。",
+          "hyouki": [
+            "日本海"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>。<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "軍"
+          ]
+        },
+        {
+          "def": "<ruby><rb>戦</rb><rt>たたか</rt></ruby>い。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。",
+          "hyouki": [
+            "軍"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>相手</rb><rt>あいて</rt></ruby>を<ruby><rb>攻</rb><rt>せ</rt></ruby>めること。",
+          "hyouki": [
+            "攻撃"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>欠点</rb><rt>けってん</rt></ruby>や<ruby><rb>誤</rb><rt>あやま</rt></ruby>りを<ruby><rb>責</rb><rt>せ</rt></ruby>めること。",
+          "hyouki": [
+            "攻撃"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>などに<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>積</rb><rt>つ</rt></ruby>む。",
+          "hyouki": [
+            "乗せる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>調子</rb><rt>ちょうし</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>わせる。",
+          "hyouki": [
+            "乗せる"
+          ]
+        },
+        {
+          "def": "だます。",
+          "hyouki": [
+            "乗せる"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>教</rb><rt>おし</rt></ruby>えて、<ruby><rb>慣</rb><rt>な</rt></ruby>れさせること。また、うまくできるように<ruby><rb>練習</rb><rt>れんしゅう</rt></ruby>すること。",
+          "hyouki": [
+            "訓練"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "アジア<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>東岸</rb><rt>とうがん</rt></ruby>からつき<ruby><rb>出</rb><rt>だ</rt></ruby>している<ruby><rb>半島</rb><rt>はんとう</rt></ruby>。<ruby><rb>朝鮮海峡</rb><rt>ちょうせんかいきょう</rt></ruby>をはさんで<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>に<ruby><rb>対</rb><rt>たい</rt></ruby>している。",
+          "hyouki": [
+            "朝鮮半島"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>核分裂</rb><rt>かくぶんれつ</rt></ruby>や<ruby><rb>核融合</rb><rt>かくゆうごう</rt></ruby>によって<ruby><rb>出</rb><rt>で</rt></ruby>るエネルギーを<ruby><rb>利用</rb><rt>りよう</rt></ruby>した<ruby><rb>兵器</rb><rt>へいき</rt></ruby>。<ruby><rb>原子爆弾</rb><rt>げんしばくだん</rt></ruby>や、<ruby><rb>水素爆弾</rb><rt>すいそばくだん</rt></ruby>など。",
+          "hyouki": [
+            "核兵器"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "ロケットなどの<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>飛</rb><rt>と</rt></ruby>び、<ruby><rb>誘導</rb><rt>ゆうどう</rt></ruby><ruby><rb>装置</rb><rt>そうち</rt></ruby>によって、<ruby><rb>目標</rb><rt>もくひょう</rt></ruby>をとらえる<ruby><rb>爆弾</rb><rt>ばくだん</rt></ruby>。<ruby><rb>誘導弾</rb><rt>ゆうどうだん</rt></ruby>。",
+          "hyouki": [
+            "ミサイル"
+          ]
+        }
+      ]
+    }
+  }
+}

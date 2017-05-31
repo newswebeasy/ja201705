@@ -1,0 +1,66 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>考</rb><rt>かんが</rt></ruby>えたことや<ruby><rb>思</rb><rt>おも</rt></ruby>ったことを、ことば・<ruby><rb>身</rb><rt>み</rt></ruby>ぶり・<ruby><rb>文字</rb><rt>もじ</rt></ruby>・<ruby><rb>色</rb><rt>いろ</rt></ruby>・<ruby><rb>音</rb><rt>おと</rt></ruby>などで<ruby><rb>表</rb><rt>あらわ</rt></ruby>すこと。また、その<ruby><rb>表</rb><rt>あらわ</rt></ruby>し<ruby><rb>方</rb><rt>かた</rt></ruby>。",
+          "hyouki": [
+            "表現"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わった一九四五<ruby><rb>年</rb><rt>ねん</rt></ruby>、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>はアメリカのニューヨークにある。<ruby><rb>国連</rb><rt>こくれん</rt></ruby>。<ruby><rb>UN</rb><rt>ユーエヌ</rt></ruby>。",
+          "hyouki": [
+            "国際連合"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>大学</rb><rt>だいがく</rt></ruby>の<ruby><rb>先生</rb><rt>せんせい</rt></ruby>。",
+          "hyouki": [
+            "教授"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>にものを<ruby><rb>教</rb><rt>おし</rt></ruby>えること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "教授"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。",
+          "hyouki": [
+            "結果"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ]
+    }
+  }
+}

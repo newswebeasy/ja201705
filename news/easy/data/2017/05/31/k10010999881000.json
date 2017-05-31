@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10010999881000.mp3", 
+  "title": "東京や大阪以外でも外国からの旅行客を増やしたい", 
+  "news_prearranged_time": "2017-05-31 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>去年<rt>きょねん</rt></ruby><ruby>外国<rt>がいこく</rt></ruby>から<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>は２４００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>で、<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>多<rt>おお</rt></ruby>くなりました。", 
+  "news_web_movie_uri": "k10010999881_201705301839_201705301839.mp4", 
+  "title_with_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>や<ruby>大阪<rt>おおさか</rt></ruby><ruby>以外<rt>いがい</rt></ruby>でも<ruby>外国<rt>がいこく</rt></ruby>からの<ruby>旅行<rt>りょこう</rt></ruby><ruby>客<rt>きゃく</rt></ruby>を<ruby>増<rt>ふ</rt></ruby>やしたい", 
+  "news_id": "k10010999881000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170530/../20170530/K10010999881_1705301839_1705301840_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

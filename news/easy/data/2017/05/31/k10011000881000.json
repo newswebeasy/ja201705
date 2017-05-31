@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011000881000.mp3", 
+  "title": "たばこが原因で１年に７００万人以上が亡くなっている", 
+  "news_prearranged_time": "2017-05-31 15:40:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>５<ruby>月<rt>がつ</rt></ruby>３１<ruby>日<rt>にち</rt></ruby>は、<a href='javascript:void(0)' class='dicWin' id='id-0000'>ＷＨＯ</a>がみんなに<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>禁煙<rt>きんえん</rt></ruby></a>してほしいと<ruby>考<rt>かんが</rt></ruby>えて<ruby>決<rt>き</rt></ruby>めた「<ruby>世界禁煙<rt>せかいきんえん</rt></ruby>デー」です。", 
+  "news_web_movie_uri": "k10011000881_201705310517_201705310521.mp4", 
+  "title_with_ruby": "たばこが<ruby>原因<rt>げんいん</rt></ruby>で１<ruby>年<rt>ねん</rt></ruby>に７００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなっている", 
+  "news_id": "k10011000881000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170531/../20170531/K10011000881_1705310512_1705310526_01_03.jpg?utm_int=nsearch_contents_search-items_002", 
+  "news_easy_movie_uri": "''"
+}
